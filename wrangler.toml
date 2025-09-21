@@ -1,0 +1,6 @@
+name = "truthlens"
+main = "dist/_worker.js"
+compatibility_date = "2025-09-21"
+
+[site]
+bucket = "./dist"
