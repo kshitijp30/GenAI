@@ -1,0 +1,7 @@
+{
+  "name": "TruthLens",
+  "description": "An AI-powered tool that detects misinformation in text, explains why it might be misleading, and educates users to become better at spotting misinformation patterns themselves.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
